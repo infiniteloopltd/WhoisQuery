@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\research\WhoisClient.NET\WhoisClient.NET\WhoisClient.NET.csproj" />
+    <PackageReference Include="WhoisClient.NET" Version="3.0.1" />
   </ItemGroup>
 
 </Project>

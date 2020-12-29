@@ -697,7 +697,10 @@
           "NETStandard.Library": "1.6.1"
         },
         "runtime": {
-          "WhoisClient.dll": {}
+          "lib/netstandard1.4/WhoisClient.dll": {
+            "assemblyVersion": "3.0.1.0",
+            "fileVersion": "3.0.1.0"
+          }
         }
       }
     }
@@ -1227,9 +1230,11 @@
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
     "WhoisClient.NET/3.0.1": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6Ic6RA2faFvpxe3wqofCsbpsoegGjXsRy6DCT8Pk8Ado33M2+XWkNGkTZ5VDyRvTwD000kYRl4HEJd4HL27/Bw==",
+      "path": "whoisclient.net/3.0.1",
+      "hashPath": "whoisclient.net.3.0.1.nupkg.sha512"
     }
   }
 }

@@ -1203,17 +1203,16 @@
         }
       },
       "WhoisClient.NET/3.0.1": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v1.4",
+        "type": "package",
         "dependencies": {
           "IPAddressRange": "3.2.0",
           "NETStandard.Library": "1.6.1"
         },
         "compile": {
-          "bin/placeholder/WhoisClient.NET.dll": {}
+          "lib/netstandard1.4/WhoisClient.dll": {}
         },
         "runtime": {
-          "bin/placeholder/WhoisClient.NET.dll": {}
+          "lib/netstandard1.4/WhoisClient.dll": {}
         }
       }
     }
@@ -4504,9 +4503,19 @@
       ]
     },
     "WhoisClient.NET/3.0.1": {
-      "type": "project",
-      "path": "../../../../../research/WhoisClient.NET/WhoisClient.NET/WhoisClient.NET.csproj",
-      "msbuildProject": "../../../../../research/WhoisClient.NET/WhoisClient.NET/WhoisClient.NET.csproj"
+      "sha512": "6Ic6RA2faFvpxe3wqofCsbpsoegGjXsRy6DCT8Pk8Ado33M2+XWkNGkTZ5VDyRvTwD000kYRl4HEJd4HL27/Bw==",
+      "type": "package",
+      "path": "whoisclient.net/3.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/WhoisClient.dll",
+        "lib/net45/WhoisClient.xml",
+        "lib/netstandard1.4/WhoisClient.dll",
+        "lib/netstandard1.4/WhoisClient.xml",
+        "whoisclient.net.3.0.1.nupkg.sha512",
+        "whoisclient.net.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -4540,11 +4549,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\research\\WhoisClient.NET\\WhoisClient.NET\\WhoisClient.NET.csproj": {
-              "projectPath": "C:\\research\\WhoisClient.NET\\WhoisClient.NET\\WhoisClient.NET.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -4556,6 +4561,12 @@
     "frameworks": {
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "WhoisClient.NET": {
+            "target": "Package",
+            "version": "[3.0.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

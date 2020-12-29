@@ -14,5 +14,3 @@ C:\Users\fiach\source\repos\Whois\obj\Debug\netcoreapp3.1\Whois.csproj.CopyCompl
 C:\Users\fiach\source\repos\Whois\obj\Debug\netcoreapp3.1\Whois.dll
 C:\Users\fiach\source\repos\Whois\obj\Debug\netcoreapp3.1\Whois.pdb
 C:\Users\fiach\source\repos\Whois\obj\Debug\netcoreapp3.1\Whois.genruntimeconfig.cache
-C:\Users\fiach\source\repos\Whois\bin\Debug\netcoreapp3.1\WhoisClient.pdb
-C:\Users\fiach\source\repos\Whois\bin\Debug\netcoreapp3.1\WhoisClient.xml

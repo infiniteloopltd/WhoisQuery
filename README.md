@@ -1,5 +1,7 @@
 # WhoisQuery
 
+Blog Post: https://blog.dotnetframework.org/2020/12/29/exploring-whois-data-in-c/
+
 When you register a domain name, your details are kept in a Whois file with your registrar, which is then accessible via a Whois query.
 
 What is interesting is that the format of the response of Whois is very unstandardized, and varies both in form and content from country to country. I checked this with a few of my own domains, to see the difference in the raw response;

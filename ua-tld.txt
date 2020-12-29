@@ -1,0 +1,65 @@
+﻿% Request from 185.89.46.9
+% This is the Ukrainian Whois query server #A.
+% The Whois is subject to Terms of use
+% See https://hostmaster.ua/services/
+%
+% IN THE PROCESS OF DELEGATION OF A DOMAIN NAME,
+% THE REGISTRANT IS AN ENTITY WHO USES AND MANAGES A CERTAIN DOMAIN NAME,
+% AND THE REGISTRAR IS A BUSINESS ENTITY THAT PROVIDES THE REGISTRANT
+% WITH THE SERVICES NECESSARY FOR THE TECHNICAL MAINTENANCE OF THE REGISTRATION AND OPERATION OF THE DOMAIN NAME.
+% FOR INFORMATION ABOUT THE REGISTRANT OF THE DOMAIN NAME, YOU SHOULD CONTACT THE REGISTRAR.
+
+% The object shown below is NOT in the UAEPP database.
+% It has been obtained by querying a remote server:
+% (EUNIC Whois Server) at port 43.
+%
+% REDIRECT BEGIN
+
+% Request from 2001:4130::30
+% This is the EUNIC Whois query server #KH.
+% The Whois is subject to Terms of use.
+% See https://coordinator.ua/services/.
+
+% Інформація надається виключно в ознайомлювальних цілях.
+% Єдиним джерелом первинних даних про доменне ім'я є реєстратор доменного імені,
+% який може надати необхідну інформацію, в установленому законом порядку.
+
+% Реєстратор доменних імен не має жодного відношення до інформації що була,
+% є або буде опублікована на ресурсі власника доменного імені, а також не несе
+% відповідальності за можливі наслідки використання доменного імені реєстрантом.
+
+domain:           api.dn.ua
+registrant:       reid
+admin-c:          reid
+tech-c:           uadom
+mnt-by:           co.uadom
+nserver:          ns.ukraine-domain.com
+nserver:          ns2.ukraine-domain.com
+nserver:          ns3.ukraine-domain.com
+status:           clientTransferProhibited
+created:          2019-08-29 20:00:02+03
+modified:         2020-07-30 12:35:02+03
+expires:          2021-08-29 20:00:02+03
+source:           EUNIC
+
+% Registrar:
+% ==========
+registrar:        co.uadom
+organization:     FOP Vlasenko N.V.
+organization-loc: ФОП Власенко Н. В.
+url:              http://ukraine-domain.com
+city:             Kyiv
+country:          UA
+abuse-email:      hostmaster@ukraine-domain.com
+abuse-phone:      +380.445999755
+abuse-postal:     Ukraine 03110 Kyiv P.O.Box 79
+abuse-postal-loc: Україна 03110 Київ А/С 79
+source:           EUNIC
+
+
+% Query time:     2 msec
+
+
+
+% REDIRECT END
+

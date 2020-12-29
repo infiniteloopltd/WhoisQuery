@@ -1,0 +1,51 @@
+﻿*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://web-whois.nic.it                                           *
+* Privacy Information: http://web-whois.nic.it/privacy              *
+*********************************************************************
+
+Domain:             targa.co.it
+Status:             ok
+Signed:             no
+Created:            2020-01-10 13:21:02
+Last Update:        2020-01-10 13:21:02
+Expire Date:        2021-01-10
+
+Registrant
+  Organization:     Infinite Loop Development Ltd
+  Address:          Ballyliffen
+                    Clonmany
+                    F93 V56N
+                    Donegal
+                    IE
+  Created:          2020-01-10 13:21:02
+  Last Update:      2020-01-10 13:21:01
+
+Admin Contact
+  Name:             hidden
+
+Technical Contacts
+  Name:             Technical Support
+  Organization:     Register SpA
+  Address:          Via Zanchi 22
+                    Bergamo
+                    24126
+                    BG
+                    IT
+  Created:          2009-09-28 11:01:09
+  Last Update:      2020-12-09 16:18:25
+
+Registrar
+  Organization:     Register S.p.a.
+  Name:             REGISTER-REG
+  Web:              https://www.register.it
+  DNSSEC:           no
+
+
+Nameservers
+  ns1.register.it
+  ns2.register.it
+

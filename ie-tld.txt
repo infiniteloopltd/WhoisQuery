@@ -1,0 +1,79 @@
+﻿Domain Name: infiniteloop.ie
+Registry Domain ID: 573057-IEDR
+Registrar WHOIS Server: whois.weare.ie
+Registrar URL: https://www.spiralhosting.com
+Updated Date: 2020-11-15T17:55:24Z
+Creation Date: 2016-02-19T00:00:00Z
+Registry Expiry Date: 2021-02-19T16:12:54Z
+Registrar: Spiral Hosting
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@spiralhosting.com
+Registrar Abuse Contact Phone: +353.16917108
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 316361-IEDR
+Registrant Name: OPEN MERCHANT ACCOUNT LIMITED
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: REDACTED FOR PRIVACY
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: REDACTED FOR PRIVACY
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please ask the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Other contacts of the queried domain name
+Registry Admin ID: 97862-IEDR
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please ask the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Other contacts of the queried domain name
+Registry Tech ID: 10856-IEDR
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please ask the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Other contacts of the queried domain name
+Registry Billing ID: REDACTED FOR PRIVACY
+Billing Name: REDACTED FOR PRIVACY
+Billing Organization: REDACTED FOR PRIVACY
+Billing Street: REDACTED FOR PRIVACY
+Billing City: REDACTED FOR PRIVACY
+Billing State/Province: REDACTED FOR PRIVACY
+Billing Postal Code: REDACTED FOR PRIVACY
+Billing Country: REDACTED FOR PRIVACY
+Billing Phone: REDACTED FOR PRIVACY
+Billing Phone Ext: REDACTED FOR PRIVACY
+Billing Fax: REDACTED FOR PRIVACY
+Billing Fax Ext: REDACTED FOR PRIVACY
+Billing Email: Please ask the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Other contacts of the queried domain name
+Name Server: ns1.spiralhosting.com
+Name Server: ns2.spiralhosting.com
+Name Server: ns3.spiralhosting.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-12-29T10:54:03Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+% Important Notice
+% If you believe that information published on this page is incorrect, or should not be published,please contact your Registrar, or the IEDR Registration Services Department who will advise you further.
+% You can also contact your Registrar or the IEDR if your Registrant name is not showing and you would like it to be published.
+% Our contact information is available at https://www.iedr.ie/contact-us/
+% Rights restricted by copyright: https://www.iedr.ie/registrant-terms-conditions-policy/
+% Do not remove this notice

@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fiach\\source\\repos\\Whois\\Whois.csproj": {}
+  },
+  "projects": {
+    "C:\\research\\WhoisClient.NET\\WhoisClient.NET\\WhoisClient.NET.csproj": {
+      "version": "3.0.1",
+      "restore": {
+        "projectUniqueName": "C:\\research\\WhoisClient.NET\\WhoisClient.NET\\WhoisClient.NET.csproj",
+        "projectName": "WhoisClient.NET",
+        "projectPath": "C:\\research\\WhoisClient.NET\\WhoisClient.NET\\WhoisClient.NET.csproj",
+        "packagesPath": "C:\\Users\\fiach\\.nuget\\packages\\",
+        "outputPath": "C:\\research\\WhoisClient.NET\\WhoisClient.NET\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\fiach\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45",
+          "netstandard1.4"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          },
+          "netstandard1.4": {
+            "targetAlias": "netstandard1.4",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "IPAddressRange": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard1.4": {
+          "targetAlias": "netstandard1.4",
+          "dependencies": {
+            "IPAddressRange": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fiach\\source\\repos\\Whois\\Whois.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fiach\\source\\repos\\Whois\\Whois.csproj",
+        "projectName": "Whois",
+        "projectPath": "C:\\Users\\fiach\\source\\repos\\Whois\\Whois.csproj",
+        "packagesPath": "C:\\Users\\fiach\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fiach\\source\\repos\\Whois\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fiach\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\research\\WhoisClient.NET\\WhoisClient.NET\\WhoisClient.NET.csproj": {
+                "projectPath": "C:\\research\\WhoisClient.NET\\WhoisClient.NET\\WhoisClient.NET.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

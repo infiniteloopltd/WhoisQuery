@@ -1,0 +1,42 @@
+﻿% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See https://www.isnic.is/en/about/copyright
+
+domain:       skraningarnumer.is
+registrant:   FR223-IS
+admin-c:      NI231-IS
+tech-c:       NI231-IS
+zone-c:       NI231-IS
+billing-c:    NI230-IS
+nserver:      dns1.registrar-servers.com
+nserver:      dns2.registrar-servers.com
+dnssec:       unsigned delegation
+created:      September  5 2019
+expires:      September  5 2021
+source:       ISNIC 
+
+nic-hdl:      FR223-IS
+address:      GB
+created:      September  5 2019
+source:       ISNIC 
+
+role:         NameCheap, Inc.
+nic-hdl:      NI230-IS
+address:      4600 East Washington Street, Suite 305
+address:      Phoenix, AZ 85034
+address:      US
+phone:        +1 6613102107
+e-mail:       registryfinance@namecheap.com
+created:      March 21 2019
+source:       ISNIC 
+
+role:         NameCheap, Inc.
+nic-hdl:      NI231-IS
+address:      4600 East Washington Street, Suite 305
+address:      Phoenix, AZ 85034
+address:      US
+phone:        +1 6613102107
+e-mail:       isnicdomains@namecheap.com
+created:      March 22 2019
+source:       ISNIC 
